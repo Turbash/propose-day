@@ -1,6 +1,6 @@
 # Propose Day Website 2026 💕
 
-A beautiful, interactive Propose Day website inspired by Rose Day designs, built with React, TypeScript, Vite, Tailwind CSS, and featuring a stunning circular carousel for your love proposal presentation. Nice website on a tragic day, really really really tragic day. Such a sad day. such a sad day.
+A beautiful, interactive Propose Day website inspired by Rose Day designs, built with React, TypeScript, Vite, Tailwind CSS, and featuring a stunning circular carousel for your love proposal presentation. Nice website on a tragic day, really really really tragic day. Such a sad day. such a sad day. Still remember it like yesterday, terrible day a nightmare.
 
 ## ✨ Features
 
