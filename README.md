@@ -6,7 +6,7 @@ A beautiful, interactive Propose Day website inspired by Rose Day designs, built
 
 ### Complete Multi-Page Experience
 
-**Page 1 - Opening Quote** 🌟
+**Page 1 - Opening Quote** 
 - Animated starry background
 - Romantic opening quote
 - Auto-advances to next page
